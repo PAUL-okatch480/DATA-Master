@@ -1,4 +1,4 @@
-# Hello, I'm Paul Okatch 👋
+# Hello, I'm Paul Okatch 
 
 <a href="https://linkedin.com/in/paul-okatch" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0072B1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
